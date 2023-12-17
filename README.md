@@ -1,10 +1,9 @@
-# Build and Deploy a Fantastic 3D Portfolio Website with Three.js and React.js
+# Build and Deploy a  3D Portfolio Website with Three.js and React.js
 ![3D Portfolio]
 
 ## Introduction
 The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today! 
- 
-In this course, you'll learn the following:
+Technologies Used:
 - ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
 - React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
 - TailwindCSS - a popular utility-first CSS styling framework
@@ -15,5 +14,4 @@ You'll also learn how to:
 - Implement sending emails through a form on the website
 - Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
 
-## Want to land your dream programming job in 3 - 6 months?
 
